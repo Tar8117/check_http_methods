@@ -1,0 +1,15 @@
+attrs==22.1.0
+colorama==0.4.6
+decorator==5.1.1
+exceptiongroup==1.0.4
+importlib-metadata==5.0.0
+iniconfig==1.1.1
+isort==5.10.1
+packaging==21.3
+pluggy==1.0.0
+pyparsing==3.0.9
+pytest==7.2.0
+tomli==2.0.1
+typing_extensions==4.4.0
+validators==0.20.0
+zipp==3.10.0
